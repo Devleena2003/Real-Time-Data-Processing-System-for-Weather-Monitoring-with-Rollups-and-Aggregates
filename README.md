@@ -75,7 +75,7 @@ cd weather-forecast-app
 You need to configure your API key from OpenWeather. Add the following to your `.env` file in the root directory:
 
 ```bash
-REACT_APP_API_KEY=<Your OpenWeather API Key>
+apiKey=<Your OpenWeather API Key>
 ```
 
 ### Running Locally
