@@ -140,6 +140,4 @@ docker run -p 8080:8080 weather-forecast-app
 - **Notifications**: Push notifications when weather alerts are triggered.
 - **Multiple Language Support**: Add i18n support for global usage.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
