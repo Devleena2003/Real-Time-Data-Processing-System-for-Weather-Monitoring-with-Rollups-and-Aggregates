@@ -15,7 +15,7 @@ This Weather Forecasting Application allows users to check the current weather, 
 - **Dominant Weather Condition:** Displays the most common weather condition over the forecast period.
 - **Dynamic Background:** Changes the background based on the weather conditions (rainy, sunny, snowy, cloudy, etc.).
 - **Temperature Unit Conversion:** Allows for temperature conversion between Celsius, Fahrenheit, and Kelvin.
-- **Responsive Design:** Works on mobile and desktop devices.
+
 
 ## Dependencies
 
